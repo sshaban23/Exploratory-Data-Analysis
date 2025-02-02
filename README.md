@@ -9,6 +9,7 @@ A2: BENEFIT FROM ANALYSIS:
 
 The benefit of this analysis is that it helps us understand if there's a meaningful difference in the average monthly charges between customers who churn and those who don't. By knowing this difference, a company can make informed decisions. If churned customers have significantly higher or lower monthly charges, the company could adjust its pricing strategies or customer retention efforts accordingly. This analysis provides valuable insights for improving customer satisfaction and reducing churn, which leads to better business outcomes.
 
+
 A3: DATA IDENTIFICATION:
 
     1-	Churn (yes/no)
